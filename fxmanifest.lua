@@ -2,9 +2,7 @@
 
 description 'sn-3dme - 3dme script'
 
-author "marcook._#5264"
-author 'FL45H#5053'
-
+author 'marcook._#5264'
 
 client_script 'client.lua'
 server_script '@mysql-async/lib/MySQL.lua'
