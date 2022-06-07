@@ -2,6 +2,7 @@
 
 description 'sn-3dme - 3dme script'
 
+author "marcook._#5264"
 author 'FL45H#5053'
 
 
