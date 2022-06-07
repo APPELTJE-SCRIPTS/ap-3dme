@@ -2,7 +2,7 @@
 
 description 'sn-3dme - 3dme script'
 
-author 'NICK#8338'
+author 'FL45H#5053'
 
 
 client_script 'client.lua'
