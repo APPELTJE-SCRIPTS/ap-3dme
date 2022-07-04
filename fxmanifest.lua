@@ -1,6 +1,6 @@
 
 
-description 'sn-3dme - 3dme script'
+description 'ap-3dme - 3dme script'
 
 author 'marcook._#5264'
 
